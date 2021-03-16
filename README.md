@@ -1,2 +1,1 @@
-# techLabs-project
-#codeAtHome Bootcamp - Web Development 
+# TechLabs #codeAtHome Bootcamp - Web Development Project
