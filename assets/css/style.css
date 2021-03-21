@@ -2340,9 +2340,10 @@ section {
 #playlists {
   width: 80%;
   margin: 5rem auto;
-  border: 2px dotted pink;
+  padding-top: 1rem;
 }
 #playlists h2 {
   font-family: "Poppins", sans-serif;
   text-align: center;
+  margin: 3rem 0;
 }
