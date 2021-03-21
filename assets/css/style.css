@@ -2323,3 +2323,26 @@ section {
   color: #fff;
   text-decoration: none;
 }
+
+/* Custom */
+
+#account {
+  position: relative;
+  left: 3rem;
+  border: 2px solid;
+  border-radius: 0px;
+  transition: 250ms ease-in-out;
+}
+#account:hover {
+  border: 2px solid;
+  border-radius: 50px;
+}
+#playlists {
+  width: 80%;
+  margin: 5rem auto;
+  border: 2px dotted pink;
+}
+#playlists h2 {
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+}
