@@ -2337,8 +2337,8 @@ section {
   border: 2px solid;
   border-radius: 50px;
 }
+
 #playlists {
-  width: 80%;
   margin: 5rem auto;
   padding-top: 1rem;
 }
@@ -2346,4 +2346,11 @@ section {
   font-family: "Poppins", sans-serif;
   text-align: center;
   margin: 3rem 0;
+}
+
+.iframes {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  place-items: center;
+
 }
