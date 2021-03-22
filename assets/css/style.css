@@ -2326,18 +2326,6 @@ section {
 
 /* Custom */
 
-#account {
-  position: relative;
-  left: 3rem;
-  border: 2px solid;
-  border-radius: 0px;
-  transition: 250ms ease-in-out;
-}
-#account:hover {
-  border: 2px solid;
-  border-radius: 50px;
-}
-
 #playlists {
   margin: 5rem auto;
   padding-top: 1rem;
